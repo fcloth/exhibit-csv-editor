@@ -1,5 +1,5 @@
 Name,URL,Duration,UpdateInterval,StartOn,EndBy,Cache,Visibility
-exhibit01_uniqid663a601c271e2.png,https://testing.anthologic.com/slides/exhibit01_uniqid663a601c271e2.png,0:00:20,1:00:00,1/1/24 0:00,12/31/44 23:59,yes,visible
-exhibit02_uniqid663a601c26beb.png,https://testing.anthologic.com/slides/exhibit02_uniqid663a601c26beb.png,0:00:20,1:00:00,1/1/24 0:00,12/31/44 23:59,yes,show
-exhibit03_uniqid663a601c25744.png,https://testing.anthologic.com/slides/exhibit03_uniqid663a601c25744.png,0:00:20,1:00:00,1/1/24 0:00,12/31/44 23:59,yes,show
-exhibit04_uniqid663a601c2497b.png,https://testing.anthologic.com/slides/exhibit04_uniqid663a601c2497b.png,0:00:20,1:00:00,1/1/24 0:00,12/31/44 23:59,yes,show
+exhibit01_uniqid663a601c271e2.png,https://example.exhibit.com/slides/exhibit01_uniqid663a601c271e2.png,0:00:20,1:00:00,1/1/24 0:00,12/31/44 23:59,yes,visible
+exhibit02_uniqid663a601c26beb.png,https://example.exhibit.com/slides/exhibit02_uniqid663a601c26beb.png,0:00:20,1:00:00,1/1/24 0:00,12/31/44 23:59,yes,show
+exhibit03_uniqid663a601c25744.png,https://example.exhibit.com/slides/exhibit03_uniqid663a601c25744.png,0:00:20,1:00:00,1/1/24 0:00,12/31/44 23:59,yes,show
+exhibit04_uniqid663a601c2497b.png,https://example.exhibit.com/slides/exhibit04_uniqid663a601c2497b.png,0:00:20,1:00:00,1/1/24 0:00,12/31/44 23:59,yes,show
