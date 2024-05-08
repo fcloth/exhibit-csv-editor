@@ -3,7 +3,7 @@ session_start();
 
 $pageTitle = "Exhibit CSV Editor";
 
-$siteBaseURL = 'exhibit.example.com';
+$siteBaseURL = 'exhibit.example.com:8890';
 
 // Verify write permissions set correctly for files and directories named here
 $csvFile = 'playlist-allslides.csv'; // CSV file containing all images including hidden
