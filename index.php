@@ -131,7 +131,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST" AND isset($_POST['action'])) {
 						"StartOn" => "1/1/24 0:00",
 						"EndBy" => "12/31/44 23:59",
 						"Cache" => "yes",
-						"Visibility" => "show"
+						"Visibility" => "visible"
 					);
 					if ($uploadedSlideOrder == 'start' AND !empty($csvArray)) {
 						array_unshift($csvArray, $newChildArray); // prepend assuming $csvArray is not empty
